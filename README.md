@@ -1,2 +1,2 @@
 # PythonAutoTests
-Tests API using Python
+Tests API using Python + Pytest + Request
